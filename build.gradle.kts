@@ -6,7 +6,7 @@ plugins {
     id("io.spring.dependency-management") version "1.0.7.RELEASE"
     kotlin("jvm") version "1.2.71"
     kotlin("plugin.spring") version "1.2.71"
-    id("com.github.davidmc24.gradle.plugin.avro") version ("1.2.0")
+    id("com.github.davidmc24.gradle.plugin.avro") version ("1.3.0")
 }
 
 group = "com.example"
